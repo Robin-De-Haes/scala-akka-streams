@@ -1,0 +1,5 @@
+Considered minimum number of dependencies: 2
+Compile: 30207
+Provided: 2
+Runtime: 1568
+Test: 2
